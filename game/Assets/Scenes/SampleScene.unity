@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!156049354 &201254024
 Grid:
   m_ObjectHideFlags: 0
@@ -266,9 +266,9 @@ GameObject:
   - component: {fileID: 676151413}
   - component: {fileID: 676151415}
   - component: {fileID: 676151414}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PlayerObject
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -311,8 +311,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2057682555
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -349787024, guid: e9b88c1bc9200ec48a26b19a35f49399, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
