@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovementController : MonoBehaviour
 {
-    public float movementSpeed = 3.0f;
+    public float movementSpeed = 4.0f;
     
     Vector2 movement = new Vector2();
     Animator animator;
