@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Blocking
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: Trees
     uniqueID: 1587505167
+    locked: 0
+  - name: Characters
+    uniqueID: 2057682555
     locked: 0
