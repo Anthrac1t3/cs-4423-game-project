@@ -7,18 +7,18 @@ public class Health : MonoBehaviour
 {
     public int health;
     public int numOfHearts;
-    [SerializeField] private Image[] hearts;
+    public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart; 
 
     // Start is called before the first frame update
-    private void Start()
+    void Start()
     {
-        UpdateHealth(); 
+    
     }//end Start
 
     // Update is called once per frame
-    public void UpdateHealth()
+    void Update()
     {   
         if (health <= 0) //player has died
         {
