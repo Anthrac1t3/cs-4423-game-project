@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c19cb5b97a93ccd4cbd1d59eb38a54df
+  - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 37db9ec36e5b845dcaa40eeb0a2929b8
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: c19cb5b97a93ccd4cbd1d59eb38a54df
+    path: Assets/Scenes/Grasslands.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
