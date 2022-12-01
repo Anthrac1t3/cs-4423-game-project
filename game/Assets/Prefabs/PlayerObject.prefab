@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 1604531941608126525}
   - component: {fileID: 1604531941608126524}
   - component: {fileID: 775956304}
-  - component: {fileID: 1604531940966391672}
   m_Layer: 8
   m_Name: PlayerObject
   m_TagString: Player
@@ -148,7 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e23e6377535c7714788be9a6c08198fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 3
+  movementSpeed: 5
 --- !u!95 &775956304
 Animator:
   serializedVersion: 4
@@ -169,24 +168,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1604531940966391672
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1604531941608126527}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4814d92c6d24ebe4085e6e72f70893fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 5
-  hearts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  fullHeart: {fileID: 21300000, guid: 10aaac03cd033464b9aa9fefd7f350af, type: 3}
-  emptyHeart: {fileID: 21300000, guid: 0aca3e0fa8b1b74499673fe93a6b7454, type: 3}
