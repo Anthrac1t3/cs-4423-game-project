@@ -182,7 +182,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 5
-  numOfHearts: 5
   hearts:
   - {fileID: 0}
   - {fileID: 0}
