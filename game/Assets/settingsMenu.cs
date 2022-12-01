@@ -12,6 +12,8 @@ public class settingsMenu : MonoBehaviour
 
     Resolution[] resolutions;
 
+    
+
     void Start(){
 
         resolutions =  Screen.resolutions;
