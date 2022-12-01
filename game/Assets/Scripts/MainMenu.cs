@@ -8,7 +8,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
     {
         // increase index of active scene specified in 'Scenes In Build' build settings
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Grasslands");
     }
 
     public void QuitGame()
