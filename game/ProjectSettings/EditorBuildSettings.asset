@@ -4,32 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: c19cb5b97a93ccd4cbd1d59eb38a54df
-  - enabled: 1
-    path: Assets/Scenes/Cryptic Grove.unity
-    guid: 0a8eb67139e1bde4caac679fd959eca6
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Bayou Forest.unity
-    guid: 6e5f4020a9dc545bc934a7d3b0e46879
-  - enabled: 1
-    path: Assets/Scenes/Cave.unity
-    guid: a314b4e411c5d0b4c8b340c81c62364b
-  - enabled: 1
-    path: Assets/Scenes/darkScene.unity
-    guid: f66ee76c7486c7a4b87b863a81fd4026
-  - enabled: 1
-    path: Assets/Scenes/Deciduous Forest.unity
-    guid: d4107436328464645a7f23c52d0e4f31
-  - enabled: 1
-    path: Assets/Scenes/Tundra.unity
-    guid: 82f7576b5bc49884ebc3289ffaedb99e
-  - enabled: 1
-    path: Assets/Scenes/Vampire Area.unity
-    guid: 67e0a832e3164b240abf25c5597cb7ef
+  m_Scenes: []
   m_configObjects: {}
